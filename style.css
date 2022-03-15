@@ -1,0 +1,40 @@
+body {
+    		background-color: #FFFDD0;
+    	}
+    	#introtext {
+    		font-size: 50px;
+    		color: #CD4A6E;
+    		font-family: serif;;
+    	}
+    	#content{
+    		background-color: #E668DE;
+    		width: 800px;
+    	}
+    	#name1 {
+    		height: 75px;
+    		width: 500px;
+    		margin-top: 20px;
+    		margin-bottom: 20px;
+    		background-color: #FFFDD0;
+    	}
+    	#name2 {
+    		height: 75px;
+    		width: 500px;
+    		margin-top: 20px;
+    		margin-bottom: 20px;
+    		background-color: #FFFDD0;
+    	}
+    	#button1 {
+    		height: 75px;
+    		width: 200px;
+    		margin-top: 20px;
+    		margin-bottom: 20px;
+    		font-size: 30px; 
+    		background-color: #FFFDD0;
+    	   	}
+    	#button2 {
+    		background-color: #FFFDD0;
+    	}
+    	input {
+    		font-size: 50px;
+    	}
